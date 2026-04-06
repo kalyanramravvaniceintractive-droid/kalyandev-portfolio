@@ -1,0 +1,470 @@
+/* @media screen and (max-width: 1800px){
+
+
+
+
+    .inn-entry-item-cont h4 {font-size: 38px;margin: 0 0 28px;}
+    .inn-entry-item-cont p { font-size: 26px; margin: 0 0 58px; }
+
+
+
+}
+@media screen and (max-width: 1700px){
+
+.header-sec .container ,.hm-attry-top-sec .container { max-width: 1450px; }
+.site-logo { width: 405px; }
+.hdr-conslt a, .hdr-quote a { font-size: 20px; letter-spacing: -0.4px; text-underline-offset: 13px; padding: 11px 27px; border-radius: 30px; }
+.hdr-conslt a { padding: 11px 43px 11px 25px; }
+.hdr-menu a { padding: 14px 52px 14px 26px; font-size: 19px; }
+.hdr-menu a::before { width: 23px; height: 9px; right: 19px;}
+
+.hm-bnr-sec { padding: 220px 0px 100px; }
+.hm-bnr-lft h1, .hm-bnr-lft h2 { font-size: 92px; letter-spacing: 7.6px; margin: 0 0 17px; padding: 22px 0; }
+.hm-bnr-lft h1 small, .hm-bnr-lft h2 small { font-size: 50px; margin: 15px 0 0; letter-spacing: 4.5px; }
+.hm-bnr-lft p { font-size: 24px; letter-spacing: -0.3px; margin: 0 0 38px; }
+.hm-bnr-exp-img { width: 380px; }
+
+
+.hm-result-lft h3 { font-size: 62px; letter-spacing: 4px; margin: 0 0 6px; }
+.hm-result-lft p { font-size: 21px; letter-spacing: -0.20px; margin: 0 0 26px; }
+
+
+.hm-rslt-map-titles {padding: 9px 9px 18px;font-size: 17px;}
+.hm-rslt-map-titles:nth-child(2) { width: 117px; }
+.hm-rslt-map-titles:nth-child(3) { width: 164px; }
+.hm-rslt-map-titles:first-child { width: 180px; padding: 18px 12px 25px; }
+.hm-rslt-map-titles:last-child { width: 191px; font-size: 19px; padding: 13px 9px 22px; }
+.hm-result-rgt h5 { font-size: 36px; letter-spacing: 3px; margin: 0 0 24px; }
+
+
+
+
+    .inn-entry-item-cont h4 {font-size: 35px;margin: 0 0 25px;}
+    .inn-entry-item-cont p { font-size: 24px; margin: 0 0 50px; }
+    
+
+
+
+}
+@media screen and (max-width: 1600px){
+
+    .page-default .container { max-width: 1400px; }
+
+
+    .inn-attry-blk { gap: 34px 2.18%; }
+    .inn-attry-item-top { padding: 44px 17px 8px; margin: 0 0 15px; }
+    .inn-attry-item-cont h4 { font-size: 22px; }
+    .inn-attry-item-cont p { font-size: 17px; }
+
+    .inn-attry-item-cont { bottom: 35px; left: 20px; right: 20px; }
+    .inn-attry-item-btn .cmn-btn { font-size: 17px; letter-spacing: -0.2px; padding: 12px 18px 12px 51px; border-radius: 30px; }
+    .inn-attry-item-btn .cmn-btn:hover{padding: 12px 51px 12px 18px;}
+    .inn-attry-item-scl-links a { width: 98px; height: 41px; border-radius: 20px; background-size: 59px; }
+
+    .inn-attry-hdn-cont {padding: 30px 32px 20px;}
+    .inn-attry-hdn-cont p { font-size: 15px; letter-spacing: -0.2px; margin: 0 0 14px; }
+
+
+
+    .inn-entry-item-cont h4 {font-size: 32px;margin: 0 0 20px;}
+    .inn-entry-item-cont p { font-size: 21px; margin: 0 0 42px; }
+    .inn-entry-item-cont {padding: 16px;}
+
+    .page-default h2 { font-size: 50px; letter-spacing: 4px; }
+    .inn-attry-head-top input { padding: 12px 55px 12px 27px; border-radius: 70px; font-size: 22px; letter-spacing: -0.3px; width: 445px; }
+    .inn-attry-top-list li select { padding: 11px 43px 11px 20px; border-radius: 35px; font-size: 17px; }
+    .inn-attry-top-list li button { padding: 10px 17px 10px 57px;font-size: 21px; }
+    .inn-attry-top-list li button:hover { padding: 10px 57px 10px 17px; }
+
+    .inn-attry-head-top { margin: 0 0 38px; }
+    .inn-entry-pg h2 { margin: 0 0 62px; }
+.page-default { padding: 155px 0 115px; }
+
+    .inn-attry-top-list li button::before {width: 32px;height: 23px;left: 20px;}
+
+
+
+
+
+    .lg-att-bnr-btm-sec .container,.lg-att-testi-sec .container, .container{max-width: 1380px;}
+
+    .lg-att-bnr-cont h1, .lg-att-bnr-cont h2 { font-size: 75px; letter-spacing: 6px; margin: 0 0 24px; padding: 28px 0 34px; }
+
+
+
+
+}
+@media screen and (max-width: 1500px){
+    
+}
+@media screen and (max-width: 1440px){
+
+
+    .page-default .container { max-width: 1300px; }
+
+
+    .inn-attry-blk {gap: 30px 2.18%; }
+    .inn-attry-item-top { padding: 40px 16px 8px; margin: 0 0 13px; }
+    .inn-attry-item-cont h4 { font-size: 20px; }
+    .inn-attry-item-cont p { font-size: 16px; }
+    .inn-attry-item-cont-exp { padding-top: 8px; margin-top: 8px; }
+    .inn-attry-item-cont { bottom: 30px; left: 19px; right: 19px; }
+    .inn-attry-hdn-cont { padding: 24px 28px 16px; }
+    .inn-attry-hdn-cont p {font-size: 14px; letter-spacing: -0.1px; margin: 0 0 12px; }
+
+
+    .inn-attry-item-btn .cmn-btn { font-size: 16px; letter-spacing: -0.2px; padding: 11px 16px 11px 48px; border-radius: 28px; }
+    .inn-attry-item-btn .cmn-btn:hover{padding: 11px 48px 11px 16px ;}
+    .inn-attry-item-scl-links a { width: 92px; height: 38px; border-radius: 20px; background-size: 56px; }
+    .inn-attry-item-btm { gap: 8px; }
+
+
+
+    
+    .inn-entry-item-cont h4 {font-size: 28px;margin: 0 0 16px;}
+    .inn-entry-item-cont p { font-size: 19px; margin: 0 0 34px; }
+
+
+    .page-default h2 { font-size: 46px; letter-spacing: 4px;}
+    .inn-attry-head-top input { padding: 11px 51px 11px 25px; border-radius: 68px; font-size: 20px; letter-spacing: -0.3px; width: 410px; }
+    .inn-attry-top-list li select { padding: 10px 40px 10px 18px; border-radius: 35px; font-size: 16px; }
+
+    .inn-attry-top-list li button { padding: 9px 17px 9px 54px;font-size: 20px; }
+    .inn-attry-top-list li button::before { width: 29px; height: 21px; left: 18px; }
+    .inn-attry-top-list li button:hover::before { left: calc(100% - 45px); }
+    .inn-attry-top-list li button:hover{ padding: 9px 54px 9px 17px; }
+    .inn-attry-top-list { gap: 9px; margin: 0 0 25px; }
+
+
+    .inn-entry-pg h2 { margin: 0 0 55px; }
+
+
+
+    .page-default { padding: 140px 0 105px; }
+
+
+
+    .cmn-btn::before {width: 31px;height: 23px;}
+
+}
+@media screen and (max-width: 1400px){}
+@media screen and (max-width: 1366px){
+
+    .page-default .container { max-width: 1200px; }
+ 
+
+    .inn-attry-item-top { padding: 38px 15px 7px; margin: 0 0 12px; }
+    .inn-attry-item-cont h4 { font-size: 19px; }
+    .inn-attry-item-cont p { font-size: 15px; }
+    .inn-attry-item-cont-exp { padding-top: 6px; margin-top: 6px; }
+    .inn-attry-item-cont { bottom: 25px; left: 18px; right: 18px; }
+    .inn-attry-hdn-cont p { font-size: 13px; letter-spacing: 0px; margin: 0 0 10px; }
+    .inn-attry-hdn-cont { padding: 22px 26px 14px; }
+
+
+    .inn-attry-item-btn .cmn-btn { font-size: 15px; letter-spacing: -0.2px; padding: 10px 14px 10px 45px; border-radius: 26px; }
+    .inn-attry-item-btn .cmn-btn:hover{padding: 10px 45px 10px 14px;}
+    .inn-attry-item-scl-links a { width: 88px; height: 35px; border-radius: 19px; background-size: 54px; }
+
+    .inn-attry-item-btn .cmn-btn::before { left: 10px; }
+    .inn-attry-item-btn .cmn-btn:hover::before { left: calc(100% - 40px); }
+
+
+
+     .inn-entry-item-cont h4 {font-size: 25px;margin: 0 0 14px;}
+    .inn-entry-item-cont p { font-size: 18px; margin: 0 0 30px; }
+
+
+
+    .page-default h2 { font-size: 42px; letter-spacing: 3.5px; }
+    .inn-attry-head-top input { padding: 10px 47px 10px 23px; border-radius: 65px; font-size: 19px; letter-spacing: -0.3px; width: 385px; }
+
+    .inn-attry-head-top { margin: 0 0 32px; }
+    .inn-attry-top-list li select { padding: 9px 36px 9px 16px; border-radius: 35px; font-size: 15px; }
+
+
+    .inn-attry-top-list li button { padding: 8px 15px 8px 50px; font-size: 19px; }
+    .inn-attry-top-list li button:hover { padding: 8px 50px 8px 15px; }
+
+.inn-entry-pg h2 { margin: 0 0 50px; }
+
+
+    .page-default { padding: 120px 0 95px; }
+    .cmn-btn::before { width: 29px; height: 21px; }
+
+
+
+}
+@media screen and (max-width: 1300px){}
+@media screen and (max-width: 1280px){}
+@media screen and (max-width: 1240px){
+
+
+    .page-default .container { max-width: 1100px; }
+
+
+
+    .inn-attry-item-top { padding: 35px 13px 7px; margin: 0 0 10px; }
+    .inn-attry-item-cont h4 { font-size: 18px;margin: 0 0 2px; }
+    .inn-attry-item-cont p { font-size: 14px; }
+    .inn-attry-item-cont { bottom: 20px; left: 17px; right: 17px; }
+
+
+
+    .inn-attry-item-btn .cmn-btn { font-size: 14px; letter-spacing: -0.2px; padding: 9px 12px 9px 38px; border-radius: 24px; }
+    .inn-attry-item-btn .cmn-btn:hover{padding: 9px 38px 9px 12px;}
+    .inn-attry-item-scl-links a { width: 84px; height: 32px; border-radius: 19px; background-size: 50px; }
+    .inn-attry-item-btm { gap: 6px; }
+    .inn-attry-blk { gap: 25px 2.18%; }
+    .inn-attry-hdn-cont { padding: 20px 22px 12px; }
+    .inn-attry-hdn-cont p { font-size: 12px; margin: 0 0 8px; }
+
+
+    .inn-entry-item-cont h4 {font-size: 23px;margin: 0 0 12px;}
+    .inn-entry-item-cont p { font-size: 17px; margin: 0 0 26px; }
+
+
+    .page-default h2 { font-size: 38px; letter-spacing: 3px; }
+    .inn-attry-head-top input { padding: 10px 45px 10px 22px; border-radius: 62px; font-size: 18px; letter-spacing: 0px; width: 370px; }
+    .inn-attry-head-top { margin: 0 0 25px; gap: 10px; }
+    .inn-attry-top-list li select { padding: 9px 32px 9px 14px; border-radius: 32px; font-size: 14px; }
+    .inn-attry-top-list { gap: 7px; margin: 0 0 22px; }
+    .inn-attry-top-list li button { padding: 8px 12px 8px 46px; font-size: 18px; }
+    .inn-attry-top-list li button:hover { padding: 8px 46px 8px 12px; }
+    .inn-attry-top-list li button::before { width: 25px; height: 18px; left: 14px; }
+    .inn-attry-top-list li button:hover::before { left: calc(100% - 40px); }
+
+    .inn-entry-pg h2 { margin: 0 0 45px; }
+
+
+    .page-default { padding: 105px 0 85px; }
+
+
+    .cmn-btn::before { width: 26px; height: 19px; }
+
+
+
+
+}
+@media screen and (max-width: 1200px){}
+@media screen and (max-width: 1140px){
+
+    .page-default .container { max-width: 960px; }
+
+
+
+
+
+    .inn-attry-item-top { padding: 32px 10px 7px; margin: 0 0 8px; }   
+    .inn-attry-item {width: 23%;}
+    .inn-attry-item-cont p { font-size: 13px; }
+    .inn-attry-item-cont-exp { padding-top: 5px; margin-top: 5px; }
+    .inn-attry-item-cont { bottom: 18px; left: 14px; right: 14px; }
+    .inn-attry-item-cont h4 { font-size: 17px; margin: 0 0 2px; }
+    .inn-attry-hdn-cont p strong { margin: 0 0 2px; }
+    .inn-attry-hdn-cont { padding: 16px 18px 10px; }
+
+    .inn-attry-item-btn .cmn-btn { font-size: 13px; letter-spacing: -0.2px; padding: 8px 10px 8px 34px; border-radius: 24px; }
+    .inn-attry-item-btn .cmn-btn:hover{padding: 8px 34px 8px 10px;}
+    .inn-attry-item-scl-links a { width: 70px; height: 29px; border-radius: 19px; background-size: 45px; }
+
+
+
+    .inn-entry-item-cont h4 {font-size: 21px;margin: 0 0 10px;}
+    .inn-entry-item-cont p { font-size: 16px; margin: 0 0 22px; }
+
+
+
+    .page-default h2 { font-size: 34px; letter-spacing: 2.2px; }
+    .inn-attry-head-top input { padding: 9px 40px 9px 20px; border-radius: 60px; font-size: 17px; letter-spacing: 0px; width: 320px; }
+    .inn-attry-top-list { gap: 5px; margin: 0 0 20px; }
+    .inn-attry-top-list li select { padding: 8px 28px 8px 10px; border-radius: 30px; font-size: 13px; }
+    .inn-attry-top-list li button { padding: 7px 10px 7px 42px; font-size: 17px; }
+    .inn-attry-top-list li button:hover { padding: 7px 42px 7px 10px; }
+
+
+.inn-entry-pg h2 { margin: 0 0 40px; }
+
+
+    .page-default { padding: 95px 0 80px; }
+
+
+    .cmn-btn::before { width: 24px; height: 17px; }
+
+}
+@media screen and (max-width: 1110px){}
+@media screen and (max-width: 1080px){}
+@media screen and (max-width: 1040px){}
+@media screen and (max-width: 1000px){}
+@media screen and (max-width: 991px){
+
+
+
+    .page-default .container { max-width: 720px; }
+
+    .inn-attry-item { width: 46%; }
+    .inn-attry-blk { gap: 25px 3%; }
+
+
+    .inn-attry-item-cont h4 { font-size: 22px; margin: 0 0 4px; }
+    .inn-attry-item-cont p { font-size: 17px; }
+    .inn-attry-hdn-cont p { font-size: 16px; margin: 0 0 10px; }
+    .inn-attry-item-top { padding: 30px 14px 7px; margin: 0 0 8px; }
+
+
+    .inn-attry-item-btn .cmn-btn { font-size: 17px; letter-spacing: 0; padding: 14px 15px 14px 45px; border-radius: 24px; }
+    .inn-attry-item-btn .cmn-btn:hover{
+        padding: 14px 45px 14px 15px;
+    }
+    .inn-attry-item-scl-links a { width: 90px; height: 45px; border-radius: 30px; background-size: 56px; }
+
+
+
+
+
+    .inn-entry-item ,.inn-entry-item.active{ width: 100%; }
+    .inn-entry-blk { display: flex; justify-content: center; flex-direction: column;align-items: center; }
+    .inn-entry-item-image {display: block; }
+    .inn-entry-item.active .inn-entry-item-cont,.inn-entry-item-cont{width: 50%;background-image: url(images/inn-entry-item-cont-bg.png);}
+
+    .inn-entry-item:nth-child(2){flex-direction: row-reverse;}
+    .inn-entry-item-cont h4 { font-size: 26px; margin: 0 0 10px; }
+    .inn-entry-item-cont p { font-size: 18px; margin: 0 0 20px; }
+
+
+    .inn-attry-head-top { margin: 0 0 20px; gap: 10px; flex-direction: column; text-align: center;}
+
+
+
+
+    .page-default h2 { font-size: 32px; letter-spacing: 1.5px; }
+
+
+    .inn-attry-head-top input { padding: 10px 40px 10px 24px; border-radius: 60px; font-size: 18px; width: 300px; }
+    .inn-attry-top-list li select { padding: 10px 33px 10px 14px; border-radius: 30px; font-size: 15px; }
+
+    .inn-attry-top-list li button { padding: 9px 16px 9px 44px; font-size: 19px; }
+    .inn-attry-top-list li button:hover { padding: 9px 44px 9px 16px; }
+
+.inn-entry-pg h2 { margin: 0 0 30px; }
+
+
+
+    .page-default { padding: 40px 0; }
+    .cmn-btn::before { width: 30px; height: 26px; }
+
+
+
+}
+@media screen and (max-width: 767px){
+    .page-default .container { max-width: 100%;padding: 0 15px; }
+
+    .inn-attry-item-btn .cmn-btn { font-size: 15px; letter-spacing: 0; padding: 12px 13px 12px 42px; border-radius: 24px; }
+    .inn-attry-item-btn .cmn-btn:hover{padding: 12px 42px 12px 13px;}
+
+    .inn-attry-item-scl-links a { width: 88px; height: 39px; border-radius: 30px; background-size: 52px; }
+
+    .inn-attry-item-cont h4 { font-size: 20px; }
+    .inn-attry-item-cont p { font-size: 16px; }
+    .inn-attry-hdn-cont p { font-size: 15px; margin: 0 0 10px; }
+
+    .page-default.entry-page .container{padding: 0;}
+
+}
+@media screen and (max-width: 650px){
+
+    .inn-attry-item{width: 100%;max-width: 285px;}
+    .inn-attry-blk { gap: 25px 2%; }    
+
+    .page-default h2 { font-size: 30px; letter-spacing: 1.5px; }
+
+
+    .inn-entry-pg h2 { margin: 0 0 25px; }
+
+
+    .page-default { padding: 35px 0; }
+
+
+}
+@media screen and (max-width: 580px){
+
+    .page-default.entry-page .container{padding: 0 15px;}
+
+    .inn-entry-item.active .inn-entry-item-cont, .inn-entry-item-cont { width: 100%; padding: 20px 14px; }
+    .inn-entry-item, .inn-entry-item.active {
+        flex-direction: column-reverse;
+        width: 100%;
+        max-width: 320px;
+        margin:  0 0 20px;
+    }
+    .inn-entry-item-image{width: 100%;}
+}
+@media screen and (max-width: 480px){
+
+
+
+    .inn-entry-item-cont h4 { font-size: 22px; margin: 0 0 8px; } 
+    .inn-entry-item-cont p { font-size: 16px; margin: 0 0 16px; }
+
+
+    .inn-attry-head-top input { padding: 9px 37px 9px 22px; border-radius: 55px; font-size: 18px; width: 270px; }
+}
+@media screen and (max-width: 400px){} */
+
+
+
+
+
+
+
+.container {
+    width: 100%;
+    max-width: 1550px;
+    margin: 0 auto;
+    display: block;
+}
+@media screen and (max-width: 1600px) {
+    .container {
+        max-width: 1300px;
+    }
+}
+ 
+@media screen and (max-width: 1366px) {
+    .container {
+        max-width: 1150px;
+    }
+}
+@media screen and (max-width: 1200px) {
+    .container {
+        max-width: 990px;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .container {
+        max-width: 750px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .container {
+        max-width: 550px;
+        padding: 0 15px;
+    }
+}
+@media screen and (max-width: 580px) {
+    .container {
+        max-width: 100%;
+        padding: 0 10px;
+    }
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
